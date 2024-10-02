@@ -1,0 +1,4 @@
+- Hi, I’m @AjinkyaKhalikar
+- I’m interested in building creative projects
+- I’m currently learning machine learning 
+- You can reach me through linkedin.com/in/ajinkya-khalikar-218587258
