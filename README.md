@@ -61,45 +61,6 @@ I'm a passionate ML practitioner focused on building end-to-end machine learning
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 [Customer Churn Prediction with XAI](https://github.com/AjinkyaKhalikar/customer-churn-prediction-xai)
-Predicts customer churn using ML models with **SHAP-based explainability** to make model decisions transparent and interpretable. Bridges the gap between model performance and business understanding.
-
-> `Python` · `scikit-learn` · `SHAP` · `Pandas`
-
----
-
-### 🛡️ [AI in Network Security](https://github.com/AjinkyaKhalikar/AI-in-network-security)
-Multiple ML models trained on the **NSL-KDD dataset** to detect network intrusions and classify attack types. Demonstrates applied AI for cybersecurity.
-
-> `Python` · `scikit-learn` · `TensorFlow` · `NSL-KDD`
-
----
-
-### 🐾 [Cats vs Dogs Classification (VGG16)](https://github.com/AjinkyaKhalikar/cats-dog-classification-vgg16)
-Transfer learning with **VGG16** for binary image classification. Explores fine-tuning pretrained CNNs on custom datasets.
-
-> `Python` · `Keras` · `TensorFlow` · `Transfer Learning`
-
----
-
-### 🫁 [CNN Pneumonia Detection](https://github.com/AjinkyaKhalikar/CNN_Pneumonia_Detection)
-Convolutional Neural Network for detecting **pneumonia from chest X-ray images**. A real-world application of deep learning in medical diagnostics.
-
-> `Python` · `Keras` · `CNN` · `Medical Imaging`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaKhalikar&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaKhalikar&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always up for discussing ML, AI research, or interesting project ideas. Feel free to reach out!
