@@ -17,12 +17,9 @@
 
 ## 🧠 About Me
 
-I am a Machine Learning engineer with hands-on experience building AI systems across Computer Vision, Natural Language Processing, and Time Series Forecasting. And now i am planning to work on RNN, Gen-AI and Agentic-AI.
+I am a Machine Learning engineer with hands-on experience building AI systems across Computer Vision, Natural Language Processing, and Time Series Forecasting. I am planning to work on RNN, Gen-AI and Agentic-AI.
 
 I completed a research internship at IIT Bombay where I worked on document processing and synthetic financial data generation pipelines. My work involved extracting structured information from financial statements and medical reports using OCR, PDF parsing tools, and pattern matching techniques.
-
-During the internship I designed data processing workflows and simulate realistic financial transaction data. I also built a Streamlit-based prototype application for document upload, transaction extraction, and structured data visualization.
-
 
 ---
 
