@@ -17,21 +17,12 @@
 
 ## 🧠 About Me
 
-I'm a passionate ML practitioner focused on building end-to-end machine learning solutions — from classical algorithms to deep learning architectures. I enjoy working on problems where data, models, and explainability intersect.
+I am a Machine Learning engineer with hands-on experience building AI systems across Computer Vision, Natural Language Processing, and Time Series Forecasting. And now i am planning to work on RNN, Gen-AI and Agentic-AI.
 
-- 🔭 Currently working on: **CNN-based medical imaging** and **network security with AI**
-- 📚 Learning next: **RNNs / LSTMs**, **Generative AI**, and **Agentic AI systems**
-- 💡 Interested in: Explainable AI (XAI), computer vision, and AI safety
-- 🤝 Open to: Collaborations on ML research, open-source projects, and applied AI
+I completed a research internship at IIT Bombay where I worked on document processing and synthetic financial data generation pipelines. My work involved extracting structured information from financial statements and medical reports using OCR, PDF parsing tools, and pattern matching techniques.
 
----
+During the internship I designed data processing workflows and simulate realistic financial transaction data. I also built a Streamlit-based prototype application for document upload, transaction extraction, and structured data visualization.
 
-## 🛣️ ML Learning Roadmap
-
-```
-✅ Traditional ML     →   ✅ ANN / Deep Learning   →   ✅ CNN
-🔜 RNN / LSTM        →   🔜 Generative AI          →   🔜 Agentic AI
-```
 
 ---
 
@@ -69,7 +60,3 @@ I'm always up for discussing ML, AI research, or interesting project ideas. Feel
 - 🐙 [GitHub](https://github.com/AjinkyaKhalikar)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjinkyaKhalikar&color=blue&style=flat-square" alt="Profile views" />
-</p>
